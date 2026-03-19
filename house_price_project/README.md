@@ -1,21 +1,21 @@
-# 🏠 House Price Prediction using Linear Regression
+# House Price Prediction using Linear Regression
 
-## 📌 Problem Statement
+## Problem Statement
 
 Predict house prices based on features like number of rooms, population status, and student-teacher ratio.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python
 * Pandas
 * Matplotlib
 * Scikit-learn
 
-## 📊 Dataset
+## Dataset
 
 Boston Housing Dataset
 
-## ⚙️ Steps Performed
+## Steps Performed
 
 1. Loaded dataset using Pandas
 2. Selected features (rm, lstat, ptratio)
@@ -24,14 +24,14 @@ Boston Housing Dataset
 5. Evaluated using MAE and R² score
 6. Visualized results
 
-## 📈 Results
+## Results
 
 * Model performance evaluated using:
 
   * Mean Absolute Error (MAE)
   * R² Score
 
-## 🚀 How to Run
+## How to Run
 
 1. Install required libraries:
 
@@ -44,12 +44,12 @@ Boston Housing Dataset
    python main.py
    ```
 
-## 📌 Output
+## Output
 
 * Predicted house prices
 * Graph showing Actual vs Predicted values
 
-## 💡 Future Improvements
+## Future Improvements
 
 * Add more features
 * Use advanced models
